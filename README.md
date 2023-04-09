@@ -1,2 +1,2 @@
 # node-todo-cicd
-node-todo-cicd
+node-todos-cicd
